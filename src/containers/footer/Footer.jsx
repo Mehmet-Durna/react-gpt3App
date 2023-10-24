@@ -8,9 +8,11 @@ const Footer = () => (
       <h1 className="gradient__text">Do you want to step in to the future before others</h1>
     </div>
 
-    <div className="gpt3__footer-btn">
-      <p>Request Early Access</p>
-    </div>
+
+        <a href="/">
+            <button className="gpt3__footer-btn bn21">Button</button>
+        </a>
+
 
     <div className="gpt3__footer-links">
       <div className="gpt3__footer-links_logo">
